@@ -59,17 +59,25 @@ Developed as a Graduation Project for the Computer Engineering Department at Fat
 - VGG-19 achieved the best classification accuracy among tested models.
 - Triplet Loss enabled a functional visual recommendation system.
 
-## 📌 Future Improvements
+## Screenshots
 
-- Use full Stanford Cars dataset for training instead of the reduced custom dataset.
+<img width="1470" height="853" alt="image" src="https://github.com/user-attachments/assets/eba9cb8f-bd5f-482f-a60c-32810a226340" /><br><br>
+
+
+<img width="1414" height="742" alt="image" src="https://github.com/user-attachments/assets/973fb913-b1fe-43c9-b523-5484b6555ddf" /><br><br>
+
+
+<img width="677" height="891" alt="image" src="https://github.com/user-attachments/assets/ab126ec2-7e3a-47da-aa0f-299e3383b524" /><br><br>
+
+<img width="647" height="915" alt="image" src="https://github.com/user-attachments/assets/07de24be-1e64-4063-baa8-7105fe9f6168" /><br><br>
+
+
+## 📌 Future Improvements
 
 - Integrate transformer-based architectures for enhanced feature extraction.
 
-- Add web-based demo for live recommendations.
-
 - Improve handling of visually similar car models to reduce misclassification.
 
-mendation
 
 ## 👨‍💻 Authors
 
